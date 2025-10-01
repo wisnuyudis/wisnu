@@ -34,9 +34,10 @@
     "react-helmet": "^6.1.0"
   },
   "devDependencies": {
+    "gh-pages": "^6.3.0",
     "prettier": "^2.4.1"
   },
-  "homepage": "https://wisnu-blog.netlify.app",
+  "homepage": "https://wisnuyudis.github.io/wisnu",
   "keywords": [
     "gatsby",
     "blog",
@@ -47,7 +48,7 @@
   "main": "n/a",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/wisnu/dev-blog.git"
+    "url": "git+https://github.com/wisnuyudis/wisnu.git"
   },
   "scripts": {
     "build": "gatsby build",
@@ -56,6 +57,7 @@
     "start": "gatsby develop",
     "serve": "gatsby serve",
     "clean": "gatsby clean",
-    "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\" && exit 1"
+    "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\" && exit 1",
+    "deploy": "gatsby build --prefix-paths && gh-pages -d public"
   }
 }

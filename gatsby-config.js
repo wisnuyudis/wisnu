@@ -1,4 +1,5 @@
 module.exports = {
+  pathPrefix: "/wisnu",
   siteMetadata: {
     title: `Wisnu Dev Blog`,
     author: {
@@ -32,7 +33,7 @@ module.exports = {
       },
     },
     description: `A personal blog for sharing programming knowledge and experiences`,
-    siteUrl: `https://wisnu-blog.netlify.app`,
+    siteUrl: `https://wisnuyudis.github.io/wisnu`,
   },
   plugins: [
     `gatsby-plugin-image`,

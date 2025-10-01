@@ -1,5 +1,7 @@
 backend:
-  name: test-repo
+  name: github
+  repo: wisnuyudis/wisnu
+  branch: main
 
 # This line should *not* be indented
 # publish_mode: editorial_workflow
