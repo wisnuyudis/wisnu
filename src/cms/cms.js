@@ -1,5 +1,5 @@
 import React from 'react'
-import CMS from 'netlify-cms-app'
+import CMS from 'decap-cms-app'
 
 const BlogPostPreview = ({ entry, widgetFor }) => {
   const data = entry.getIn(['data']).toJS()
