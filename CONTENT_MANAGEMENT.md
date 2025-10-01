@@ -1,7 +1,7 @@
 # Content Management Guide
 
 ## 🚀 Blog Sudah Live!
-Website: https://wisnuyudis.github.io/wisnu
+Website: https://wisnu.is-a.dev
 
 ## 📝 Cara Edit Blog Post
 

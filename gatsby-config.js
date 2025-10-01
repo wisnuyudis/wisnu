@@ -1,5 +1,5 @@
 module.exports = {
-  pathPrefix: "/wisnu",
+  // pathPrefix: "/wisnu", // Removed for custom domain
   siteMetadata: {
     title: `Wisnu Dev Blog`,
     author: {
@@ -33,7 +33,7 @@ module.exports = {
       },
     },
     description: `A personal blog for sharing programming knowledge and experiences`,
-    siteUrl: `https://wisnuyudis.github.io/wisnu`,
+    siteUrl: `https://wisnu.is-a.dev`,
   },
   plugins: [
     `gatsby-plugin-image`,

@@ -35,7 +35,7 @@
     "gh-pages": "^6.3.0",
     "prettier": "^2.4.1"
   },
-  "homepage": "https://wisnuyudis.github.io/wisnu",
+  "homepage": "https://wisnu.is-a.dev",
   "keywords": [
     "gatsby",
     "blog",
@@ -56,6 +56,6 @@
     "serve": "gatsby serve",
     "clean": "gatsby clean",
     "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\" && exit 1",
-    "deploy": "gatsby build --prefix-paths && gh-pages -d public"
+    "deploy": "gatsby build && gh-pages -d public"
   }
 }
