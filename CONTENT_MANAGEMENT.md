@@ -5,7 +5,7 @@ Website: https://wisnuyudis.github.io/wisnu
 
 ## 📝 Cara Edit Blog Post
 
-### Metode 1: GitHub Editor (Mudah)
+### Metode 1: GitHub Editor (Mudah & Recommended) ⭐
 1. Buka: https://github.com/wisnuyudis/wisnu/tree/main/content/blog
 2. Klik file `.md` yang mau diedit
 3. Klik tombol ✏️ (Edit this file)
@@ -54,6 +54,7 @@ content/
 - Tunggu 1-2 menit setelah commit untuk lihat perubahan
 - Preview markdown di GitHub sebelum commit
 - Gunakan commit message yang jelas
+- **Tidak perlu admin panel** - GitHub editor sudah cukup!
 
 ## 🔧 Development Local
 ```bash

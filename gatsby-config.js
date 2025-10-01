@@ -148,11 +148,5 @@ module.exports = {
       },
     },
     `gatsby-plugin-react-helmet`,
-    {
-      resolve: `gatsby-plugin-decap-cms`,
-      options: {
-        modulePath: `${__dirname}/src/cms/cms.js`,
-      },
-    },
   ],
 }

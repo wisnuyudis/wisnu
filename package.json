@@ -8,9 +8,7 @@
     "url": "https://github.com/wisnu/dev-blog"
   },
   "dependencies": {
-    "decap-cms-app": "^3.8.4",
     "gatsby": "^4.1.0",
-    "gatsby-plugin-decap-cms": "^4.0.4",
     "gatsby-plugin-feed": "^4.1.0",
     "gatsby-plugin-gatsby-cloud": "^4.1.0",
     "gatsby-plugin-google-analytics": "^4.1.0",
